@@ -7,7 +7,7 @@ import java.io.IOException;
 /**
  * Provider
  *
- * @auhtor yuanshuwei@wecash.net
+ * @auhtor yswit@outlook.com
  * @create 2017-12-28 下午4:05
  */
 public class Provider {

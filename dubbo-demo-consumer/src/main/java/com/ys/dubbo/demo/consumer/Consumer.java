@@ -6,7 +6,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 /**
  * Consumer
  *
- * @auhtor yuanshuwei@wecash.net
+ * @auhtor yswit@outlook.com
  * @create 2017-12-28 下午4:28
  */
 public class Consumer {
